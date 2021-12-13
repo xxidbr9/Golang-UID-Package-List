@@ -7,6 +7,7 @@ require (
 	github.com/google/uuid v1.2.0
 	github.com/kjk/betterguid v0.0.0-20170621091430-c442874ba63a
 	github.com/lithammer/shortuuid v3.0.0+incompatible
+	github.com/matoous/go-nanoid/v2 v2.0.0 // indirect
 	github.com/oklog/ulid v1.3.1
 	github.com/rs/xid v1.3.0
 	github.com/satori/uuid v1.2.0
